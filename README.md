@@ -77,4 +77,4 @@ ROP = (Average Weekly Demand × Lead Time) + Safety Stock
 ![Inventory_Movement](Shots/imge1.jpg)
 ![Inventory_Movement](Shots/imge2.jpg)
 ![Inventory_Movement](Shots/imge3.jpg)
-## Page 2 Preview
+
